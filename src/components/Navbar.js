@@ -16,6 +16,7 @@ const Navbar = () => {
       <div class="navbar-nav">
           <Link to="/" class="nav-link active">Add Post</Link>
         <Link to= "/search" class="nav-link" >Search Post</Link>
+        <Link to= "/view" class="nav-link" >View Post</Link>
        
       </div>
     </div>
